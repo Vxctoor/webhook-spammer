@@ -1,5 +1,5 @@
 ## Preview: 
-![Preview](https://cdn.discordapp.com/attachments/892279080416849933/892671100478193674/preview.png)
+![Preview](https://media.discordapp.net/attachments/1035306943855726622/1055662712341934130/image.png)
 ##
 ## Webhook Spammer & Deleter
 Quick & Easy Webhook Spammer & Deleter written in Python.
